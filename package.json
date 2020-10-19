@@ -41,7 +41,7 @@
   "devDependencies": {
     "code-mirror": "^3.22.0",
     "es6-promise": "^1.0.0",
-    "react": "^0.11.1",
+    "react": "^16.14.0",
     "react-router": "^0.4.1",
     "lodash": "^2.4.1",
     "marked": "^0.3.2",
